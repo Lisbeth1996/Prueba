@@ -1,5 +1,13 @@
 body{
-    color: crimson;
+    color: black;
     text-align: center;
     font-size: small;
+}
+#container{
+    color: darkred;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 1rem solid;
+    border-color: black;
+    padding: 50px 50px 50px 50px;
+    margin: 100px 100px 100px 100px;
 }
