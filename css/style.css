@@ -11,3 +11,12 @@ body{
     padding: 50px 50px 50px 50px;
     margin: 100px 100px 100px 100px;
 }
+#containerDerecho{
+    color: red;
+    font-family: cursive;
+    border: 1px solid;
+    border-color: blue;
+    margin-left: 60rem;
+    margin-right: 100px;
+    
+}
